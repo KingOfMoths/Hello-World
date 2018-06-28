@@ -1,5 +1,5 @@
 # Hello-World
-Let's get it started in here
+
 
 Im Steven Holden
 I like to think hard thoughts, sometimes they think me
