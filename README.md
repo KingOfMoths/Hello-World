@@ -2,10 +2,10 @@
 
 
 Im Steven Holden
-I like to think hard thoughts, sometimes they think me
-Like that time when biology thought for 3 billion years and then I was a 100 year daydream
-So lets get a computer to work out graph theory approaches to understanding biological process 
-computing how form and information are related in a nested biological heirarchy
+I like to think hard thoughts, sometimes they like to think me.
+Like that one time when biology thought for 3 billion years and then I was a 100 year daydream.
+So, let's get a computer to work out graph theoretic approaches to understanding biological process. 
+I will be computing how form and information are related to entropic dissipation in a nested biological heirarchy
 because theres so much to see and not much time.
 
-love and truth are both forces of nature so I will do what I truly love.
+Love and Truth are forces of nature so I will do what I truly love.
